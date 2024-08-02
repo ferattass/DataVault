@@ -25,7 +25,7 @@ Gereksinimler
 Adımlar
 1. Depoyu Klonlayın:
 ```bash
-git clone https://github.com/yourusername/DataVault.git
+git clone https://github.com/ferattass/DataVault.git
 cd DataVault
 ```
 2. Gerekli Paketleri Yükleyin:
