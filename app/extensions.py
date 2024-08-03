@@ -5,3 +5,10 @@ from flask_jwt_extended import JWTManager
 db = SQLAlchemy()
 migrate = Migrate()
 jwt = JWTManager()
+
+"""
+Bu bir Yorum Satırıdır.
+
+x=x+1
+
+"""
