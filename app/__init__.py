@@ -4,6 +4,11 @@ from flask_migrate import Migrate
 from flask_jwt_extended import JWTManager
 from .config import Config
 
+
+"""
+Bu bir Yorum Satırıdır.
+"""
+
 db = SQLAlchemy()
 migrate = Migrate()
 jwt = JWTManager()

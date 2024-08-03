@@ -9,4 +9,3 @@ class Config:
 """
 Bu bir Yorum Satırıdır.
 """
-
